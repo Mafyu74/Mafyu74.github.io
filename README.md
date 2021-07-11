@@ -1,7 +1,6 @@
-# [Alembic](https://alembic.darn.es/)
-[![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
+# Portfolio
 
-⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
+⚗ Programming & Data Analysis
 
 ![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
 
