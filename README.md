@@ -2,10 +2,6 @@
 
 ⚗ Programming & Data Analysis
 
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
-
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
-
 ## Contents
 - [About](#about)
 - [Features](#features)
@@ -22,10 +18,6 @@
 - [Page layouts](#page-layouts)
 - [Page and Post options](#page-and-post-options)
 - [Credits](#credits)
-
-## About
-
-**Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate theme is designed to get rolling immediately. Install it, configure it, tweak it, push it.**
 
 ## Features
 
